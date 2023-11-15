@@ -1,0 +1,31 @@
+rank;book_title;book_price;author;yearofpublication;genre;url
+1;The Catcher in the Rye;25.99;J.D. Salinger;1951;Fiction;http://www.amazon.com/The-Catcher-in-the-Rye
+2;To Kill a Mockingbird;19.95;Harper Lee;1960;Drama;http://www.amazon.com/To-Kill-a-Mockingbird
+3;1984;29.99;George Orwell;1949;Science Fiction;http://www.amazon.com/1984
+4;The Great Gatsby;21.50;F. Scott Fitzgerald;1925;Classic;http://www.amazon.com/The-Great-Gatsby
+5;Pride and Prejudice;18.75;Jane Austen;1813;Romance;http://www.amazon.com/Pride-and-Prejudice
+6;The Hobbit;32.99;J.R.R. Tolkien;1937;Fantasy;http://www.amazon.com/The-Hobbit
+7;Brave New World;27.50;Aldous Huxley;1932;Science Fiction;http://www.amazon.com/Brave-New-World
+8;Lord of the Flies;20.85;William Golding;1954;Adventure;http://www.amazon.com/Lord-of-the-Flies
+9;The Shining;24.25;Stephen King;1977;Horror;http://www.amazon.com/The-Shining
+10;Moby-Dick;28.99;Herman Melville;1851;Adventure;http://www.amazon.com/Moby-Dick
+11;The Hitchhiker's Guide to the Galaxy;22.75;Douglas Adams;1979;Science Fiction, Comedy;http://www.amazon.com/The-Hitchhikers-Guide-to-the-Galaxy
+12;The Lord of the Rings;39.99;J.R.R. Tolkien;1954;Fantasy;http://www.amazon.com/The-Lord-of-the-Rings
+13;Harry Potter and the Sorcerer's Stone;34.95;J.K. Rowling;1997;Fantasy;http://www.amazon.com/Harry-Potter-and-the-Sorcerers-Stone
+14;The Hunger Games;27.50;Suzanne Collins;2008;Dystopian, Adventure;http://www.amazon.com/The-Hunger-Games
+15;The Da Vinci Code;19.99;Dan Brown;2003;Thriller;http://www.amazon.com/The-Da-Vinci-Code
+16;The Girl with the Dragon Tattoo;23.75;Stieg Larsson;2005;Mystery, Crime;http://www.amazon.com/The-Girl-with-the-Dragon-Tattoo
+17;A Tale of Two Cities;15.80;Charles Dickens;1859;Historical Fiction;http://www.amazon.com/A-Tale-of-Two-Cities
+18;The Alchemist;21.25;Paulo Coelho;1988;Philosophical Fiction;http://www.amazon.com/The-Alchemist
+19;Gone with the Wind;29.50;Margaret Mitchell;1936;Historical Fiction, Romance;http://www.amazon.com/Gone-with-the-Wind
+20;The Fault in Our Stars;16.99;John Green;2012;Young Adult, Romance;http://www.amazon.com/The-Fault-in-Our-Stars
+21;The Stand;26.99;Stephen King;1978;Horror;http://www.amazon.com/The-Stand
+22;Anna Karenina;18.45;Leo Tolstoy;1877;Classical, Romance;http://www.amazon.com/Anna-Karenina
+23;Jurassic Park;31.20;Michael Crichton;1990;Science Fiction, Thriller;http://www.amazon.com/Jurassic-Park
+24;The Chronicles of Narnia;38.75;C.S. Lewis;1950;Fantasy;http://www.amazon.com/The-Chronicles-of-Narnia
+25;The Color Purple;17.95;Alice Walker;1982;Historical Fiction;http://www.amazon.com/The-Color-Purple
+26;A Game of Thrones;29.99;George R.R. Martin;1996;Fantasy;http://www.amazon.com/A-Game-of-Thrones
+27;Frankenstein;18.20;Mary Shelley;1818;Gothic Fiction;http://www.amazon.com/Frankenstein
+28;The Road;24.50;Cormac McCarthy;2006;Post-Apocalyptic, Drama;http://www.amazon.com/The-Road
+29;Wuthering Heights;16.75;Emily Brontë;1847;Gothic Fiction;http://www.amazon.com/Wuthering-Heights
+30;The Maze Runner;21.95;James Dashner;2009;Young Adult, Dystopian;http://www.amazon.com/The-Maze-Runner
