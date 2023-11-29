@@ -1,0 +1,15 @@
+/home/inckrisz/C#/LINQ/HAZI/bin/Debug/net7.0/HAZI
+/home/inckrisz/C#/LINQ/HAZI/bin/Debug/net7.0/HAZI.deps.json
+/home/inckrisz/C#/LINQ/HAZI/bin/Debug/net7.0/HAZI.runtimeconfig.json
+/home/inckrisz/C#/LINQ/HAZI/bin/Debug/net7.0/HAZI.dll
+/home/inckrisz/C#/LINQ/HAZI/bin/Debug/net7.0/HAZI.pdb
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.csproj.AssemblyReference.cache
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.GeneratedMSBuildEditorConfig.editorconfig
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.AssemblyInfoInputs.cache
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.AssemblyInfo.cs
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.csproj.CoreCompileInputs.cache
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.dll
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/refint/HAZI.dll
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.pdb
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/HAZI.genruntimeconfig.cache
+/home/inckrisz/C#/LINQ/HAZI/obj/Debug/net7.0/ref/HAZI.dll

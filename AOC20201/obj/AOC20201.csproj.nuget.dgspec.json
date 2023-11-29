@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/inckrisz/C#/LINQ/AOC20201/AOC20201.csproj": {}
+  },
+  "projects": {
+    "/home/inckrisz/C#/LINQ/AOC20201/AOC20201.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/inckrisz/C#/LINQ/AOC20201/AOC20201.csproj",
+        "projectName": "AOC20201",
+        "projectPath": "/home/inckrisz/C#/LINQ/AOC20201/AOC20201.csproj",
+        "packagesPath": "/home/inckrisz/.nuget/packages/",
+        "outputPath": "/home/inckrisz/C#/LINQ/AOC20201/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/inckrisz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

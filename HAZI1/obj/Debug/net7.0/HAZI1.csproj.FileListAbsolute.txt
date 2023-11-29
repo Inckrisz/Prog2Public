@@ -1,0 +1,15 @@
+/home/inckrisz/C#/LINQ/HAZI1/bin/Debug/net7.0/HAZI1
+/home/inckrisz/C#/LINQ/HAZI1/bin/Debug/net7.0/HAZI1.deps.json
+/home/inckrisz/C#/LINQ/HAZI1/bin/Debug/net7.0/HAZI1.runtimeconfig.json
+/home/inckrisz/C#/LINQ/HAZI1/bin/Debug/net7.0/HAZI1.dll
+/home/inckrisz/C#/LINQ/HAZI1/bin/Debug/net7.0/HAZI1.pdb
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.csproj.AssemblyReference.cache
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.GeneratedMSBuildEditorConfig.editorconfig
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.AssemblyInfoInputs.cache
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.AssemblyInfo.cs
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.csproj.CoreCompileInputs.cache
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.dll
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/refint/HAZI1.dll
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.pdb
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/HAZI1.genruntimeconfig.cache
+/home/inckrisz/C#/LINQ/HAZI1/obj/Debug/net7.0/ref/HAZI1.dll

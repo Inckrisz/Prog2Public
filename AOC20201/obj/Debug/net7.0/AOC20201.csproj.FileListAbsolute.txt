@@ -1,0 +1,15 @@
+/home/inckrisz/C#/LINQ/AOC20201/bin/Debug/net7.0/AOC20201
+/home/inckrisz/C#/LINQ/AOC20201/bin/Debug/net7.0/AOC20201.deps.json
+/home/inckrisz/C#/LINQ/AOC20201/bin/Debug/net7.0/AOC20201.runtimeconfig.json
+/home/inckrisz/C#/LINQ/AOC20201/bin/Debug/net7.0/AOC20201.dll
+/home/inckrisz/C#/LINQ/AOC20201/bin/Debug/net7.0/AOC20201.pdb
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.csproj.AssemblyReference.cache
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.GeneratedMSBuildEditorConfig.editorconfig
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.AssemblyInfoInputs.cache
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.AssemblyInfo.cs
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.csproj.CoreCompileInputs.cache
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.dll
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/refint/AOC20201.dll
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.pdb
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/AOC20201.genruntimeconfig.cache
+/home/inckrisz/C#/LINQ/AOC20201/obj/Debug/net7.0/ref/AOC20201.dll
